@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="老是低着头，幸福可是会离你而去的喔。";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
